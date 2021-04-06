@@ -6,7 +6,7 @@
         "name": "Чикен Ранч",
         "types": [0, 1],
         "sizes": [26, 30, 40],
-        "price": 29,
+        "price": [11, 15, 19],
         "category": 0,
         "rating": 4
       },
@@ -16,7 +16,7 @@
         "name": "Фермерская",
         "types": [0],
         "sizes": [26, 40],
-        "price": 19,
+        "price": [10, 14, 18],
         "category": 0,
         "rating": 6
       },
@@ -26,7 +26,7 @@
         "name": "Пепперони Блюз",
         "types": [0],
         "sizes": [26, 40],
-        "price": 16,
+        "price": [9, 13, 17],
         "category": 0,
         "rating": 5
       },
@@ -36,7 +36,7 @@
         "name": "Баварская",
         "types": [1],
         "sizes": [26, 30, 40],
-        "price": 17,
+        "price": [10, 14, 18],
         "category": 0,
         "rating": 2
       },
@@ -46,7 +46,7 @@
         "name": "Чизбургер-пицца",
         "types": [0, 1],
         "sizes": [26, 30, 40],
-        "price": 25,
+        "price": [11, 15, 19],
         "category": 0,
         "rating": 8
       },
@@ -56,7 +56,7 @@
         "name": "Овощная",
         "types": [0],
         "sizes": [26, 30, 40],
-        "price": 27,
+        "price": [17, 21, 25],
         "category": 0,
         "rating": 3
       },
@@ -66,7 +66,7 @@
         "name": "Аляска",
         "types": [0, 1],
         "sizes": [26, 30, 40],
-        "price": 23,
+        "price": [17, 21, 25],
         "category": 0,
         "rating": 9
       },
@@ -76,7 +76,7 @@
         "name": "Сытная",
         "types": [0, 1],
         "sizes": [26, 30, 40],
-        "price": 22,
+        "price": [15, 19, 23],
         "category": 1,
         "rating": 10
       },
@@ -86,7 +86,7 @@
         "name": "Хатняя",
         "types": [0, 1],
         "sizes": [26, 30, 40],
-        "price": 14,
+        "price": [13, 17, 21],
         "category": 1,
         "rating": 10
       },
@@ -96,7 +96,7 @@
         "name": "Говядина BURGER",
         "types": [0, 1],
         "sizes": [26, 30, 40],
-        "price": 18,
+        "price": [18, 22, 26],
         "category": 1,
         "rating": 7
       },
@@ -106,7 +106,7 @@
         "name": "Цыпленок Доминатор",
         "types": [0, 1],
         "sizes": [26, 30, 40],
-        "price": 15,
+        "price": [15, 19, 23],
         "category": 1,
         "rating": 3
       },
@@ -116,7 +116,7 @@
         "name": "Барбекю",
         "types": [0, 1],
         "sizes": [26, 30, 40],
-        "price": 24,
+        "price": [14, 18, 22],
         "category": 1,
         "rating": 5
       },
@@ -126,7 +126,7 @@
         "name": "Карбонара",
         "types": [0, 1],
         "sizes": [26, 30, 40],
-        "price": 15,
+        "price": [13, 17, 21],
         "category": 1,
         "rating": 8
       },
@@ -136,7 +136,7 @@
         "name": "Супер Пепперони",
         "types": [0, 1],
         "sizes": [26, 30, 40],
-        "price": 20,
+        "price": [15, 19, 23],
         "category": 1,
         "rating": 9
       },
@@ -146,7 +146,7 @@
         "name": "Прованс",
         "types": [0, 1],
         "sizes": [26, 30, 40],
-        "price": 27,
+        "price": [11, 15, 19],
         "category": 1,
         "rating": 7
       },
@@ -156,7 +156,7 @@
         "name": "Ривьера",
         "types": [0, 1],
         "sizes": [26, 30, 40],
-        "price": 14,
+        "price": [13, 17, 21],
         "category": 2,
         "rating": 4
       },
@@ -166,7 +166,7 @@
         "name": "5 сыров",
         "types": [0, 1],
         "sizes": [26, 30, 40],
-        "price": 17,
+        "price": [16, 20, 24],
         "category": 2,
         "rating": 8
       },
@@ -176,7 +176,7 @@
         "name": "Тоскана",
         "types": [0, 1],
         "sizes": [26, 30, 40],
-        "price": 18,
+        "price": [17, 21, 25],
         "category": 2,
         "rating": 4
       },
@@ -186,7 +186,7 @@
         "name": "Гипнотика",
         "types": [0, 1],
         "sizes": [26, 30, 40],
-        "price": 28,
+        "price": [18, 22, 26],
         "category": 2,
         "rating": 9
       },
@@ -196,7 +196,7 @@
         "name": "Кантри",
         "types": [0, 1],
         "sizes": [26, 30, 40],
-        "price": 25,
+        "price": [14, 18, 22],
         "category": 2,
         "rating": 9
       },
@@ -206,7 +206,7 @@
         "name": "Барбекю Делюкс",
         "types": [0, 1],
         "sizes": [26, 30, 40],
-        "price": 26,
+        "price": [19, 23, 27],
         "category": 2,
         "rating": 10
       },
@@ -216,7 +216,7 @@
         "name": "Мюнхенская",
         "types": [0, 1],
         "sizes": [26, 30, 40],
-        "price": 24,
+        "price": [20, 24, 18],
         "category": 3,
         "rating": 10
       },
@@ -226,7 +226,7 @@
         "name": "Митза",
         "types": [0, 1],
         "sizes": [26, 30, 40],
-        "price": 23,
+        "price": [13, 17, 21],
         "category": 3,
         "rating": 9
       },
@@ -236,7 +236,7 @@
         "name": "Фирменная",
         "types": [0, 1],
         "sizes": [26, 30, 40],
-        "price": 26,
+        "price": [21, 25, 29],
         "category": 3,
         "rating": 8
       },
@@ -246,7 +246,7 @@
         "name": "Лесная",
         "types": [0, 1],
         "sizes": [26, 30, 40],
-        "price": 21,
+        "price": [19, 23, 27],
         "category": 3,
         "rating": 8
       },
@@ -256,7 +256,7 @@
         "name": "Ветчина и грибы",
         "types": [0, 1],
         "sizes": [26, 30, 40],
-        "price": 29,
+        "price": [19, 23, 27],
         "category": 3,
         "rating": 9
       },
@@ -266,7 +266,7 @@
         "name": "Пепперони",
         "types": [0, 1],
         "sizes": [26, 30, 40],
-        "price": 24,
+        "price": [20, 24, 28],
         "category": 3,
         "rating": 9
       }

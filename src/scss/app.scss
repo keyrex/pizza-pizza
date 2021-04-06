@@ -1,7 +1,6 @@
 @import 'fonts';
 @import 'variables';
 @import 'libs/normalize';
-
 @import 'components/all';
 
 body {
@@ -117,7 +116,7 @@ body {
     &-img {
       display: flex;
       align-items: center;
-      margin-right: 15px;
+      margin-right: 40px;
 
       img {
         width: 80px;
