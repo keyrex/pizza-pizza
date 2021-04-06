@@ -29,7 +29,7 @@ Categories.propTypes = {
     onClickCategory: PropTypes.func,
 };
 
-Categories.defailtProps = {
+Categories.defaultProps = {
     activeCategory: null,
     items: [],
 };

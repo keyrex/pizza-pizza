@@ -121,7 +121,7 @@ function Basket() {
                         <h2>Корзина пустая</h2>
                         <p>Для того, чтобы заказать пиццу, перейди на главную страницу.</p>
                         <img src={basketEmptyImage} alt="Empty cart"/>
-                        <Link to="/" class="button button--black">
+                        <Link to="/" className="button button--black">
                             <span>На главную</span>
                         </Link>
                     </div>

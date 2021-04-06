@@ -75,14 +75,14 @@ function PizzaBlock({id, name, imageUrl, price, types, sizes, onClickAddPizza, a
 PizzaBlock.propTypes = {
     name: PropTypes.string.isRequired,
     imageUrl: PropTypes.string.isRequired,
-    price: PropTypes.number.isRequired,
+    price: PropTypes.arrayOf(PropTypes.number).isRequired,
     types: PropTypes.arrayOf(PropTypes.number).isRequired,
     sizes: PropTypes.arrayOf(PropTypes.number).isRequired,
     onClickAddPizza: PropTypes.func.isRequired,
-    addedCount: PropTypes.number.isRequired,
+    addedCount: PropTypes.number,
 };
 
-PizzaBlock.defailtProps = {
+PizzaBlock.defaultProps = {
     name: '---',
     imageUrl: '/images/2ffc31bb-132c-4c99-b894-53f7107a1441.jpg',
     price: 0,
